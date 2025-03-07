@@ -1,5 +1,7 @@
 # Spam Detection Classification using OpenAI's gpt models
-
+![Detection Accuracy](assets/ResultAccuracy.png)
+![Spam Detection Preview](assets/spamExample.png)
+![Not Spam Detection Preview](assets/notSpamExample.png)
 This project is designed to detect spam emails using an AI model. It includes a Jupyter Notebook (`spamDetection.ipynb`) and requires certain dependencies listed in `requirements.txt`.
 
 ## 📌 Setup Instructions
